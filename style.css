@@ -1,6 +1,4 @@
-body{
-    
-}
+
 
 #banner{
     width: 100%;
@@ -16,7 +14,7 @@ h1{
 }
 
 p{
-    text-aling: center;
+    text-align: center;
 }
 
 #missao{
@@ -34,4 +32,19 @@ em strong {
 .beneficios{
     background-color: #ffffff;
     padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.image_beneficios {
+    width: 50%;
 }
